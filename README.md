@@ -1,4 +1,0 @@
-# go
-experience
-
-## points
